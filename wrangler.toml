@@ -1,0 +1,11 @@
+name = "roll-dorado-casino-ch"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=roll-dorado-casino.ch"
+HMAC_KEY = "7fac7d5a927d1a34a526c8e42524495217e6267bff381237e1c4201501b973ee"
+COOKIE_NAME = "uij"
+PLAY_PATH = "try-now"
+BUTTON_ID = "p7f4b5f73a7ccdccf09bfb831b5daf265"
+GATE_SALT = "212818c6edaeed56"
